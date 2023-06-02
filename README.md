@@ -1,0 +1,1 @@
+# restore_delta_table
